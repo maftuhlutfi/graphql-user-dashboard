@@ -1,0 +1,24 @@
+.content-box {
+	max-height: 77vh;
+	padding: 0 10px;
+	overflow: auto;
+}
+
+.content-box::-webkit-scrollbar-track
+{
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.content-box::-webkit-scrollbar
+{
+	width: 7px;
+	height: 20px;
+	background-color: #F5F5F5;
+}
+
+.content-box::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-color: #D1D8DE;
+}

@@ -1,6 +1,7 @@
 .profile {
 	background-color: white;
 	border-radius: 20px;
+	height: fit-content;
 }
 
 .profile-head {
