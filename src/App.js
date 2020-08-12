@@ -4,6 +4,7 @@ import './App.css';
 import Header from './components/Header';
 import Profile from './components/Profile';
 import ContentBox from './components/ContentBox';
+import FriendContainer from './components/FriendContainer';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
       <div className='contents'>
         <Profile />
         <ContentBox />
-        <div className='content' />
+        <FriendContainer />
       </div>
     </div>
   );

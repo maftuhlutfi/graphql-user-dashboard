@@ -1,5 +1,5 @@
 import React from 'react';
-import './ContentBox.css'
+import './ContentBox.css';
 
 import Post from './Post';
 

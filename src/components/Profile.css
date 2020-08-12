@@ -15,13 +15,6 @@
 	align-items: center;
 }
 
-.avatar {
-	width: 55px;
-	height: 55px;
-	border-radius: 50%;
-	background-color: #cacaca;
-}
-
 .details {
 	margin-left: 15px;
 }

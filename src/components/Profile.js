@@ -1,12 +1,13 @@
 import React from 'react';
 import './Profile.css';
+import Avatar from './Avatar';
 
 function Profile(props) {
 	return (
 		<div className="profile">
 			<div className='profile-head'>
 				<div className='identity'>
-					<div className='avatar' />
+					<Avatar name='James' width='55px' />
 					<div className='details'>
 						<h3 className='name'>James Kontlo</h3>
 						<span className='username'>@james_kontlo12</span>

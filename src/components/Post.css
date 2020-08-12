@@ -12,13 +12,6 @@
 	margin-bottom: 20px;
 }
 
-.post-user .avatar {
-	width: 40px;
-	height: 40px;
-	border-radius: 50%;
-	background-color: #cacaca;
-}
-
 .user-details {
 	margin-left: 15px;
 	display: flex;

@@ -1,0 +1,17 @@
+.friend-container {
+	background-color: white;
+	padding: 35px;
+	border-radius: 20px;
+	height: fit-content;
+}
+
+.friends {
+	display: grid;
+	grid-template-columns: 1fr 1fr auto;
+	grid-gap: 15px;
+}
+
+.friend-container h3 {
+	margin: 0;
+	margin-bottom: 30px;
+}
