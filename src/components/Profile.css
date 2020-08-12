@@ -1,0 +1,69 @@
+.profile {
+	background-color: white;
+	border-radius: 20px;
+}
+
+.profile-head {
+	padding: 35px;
+	border-bottom: solid 1.5px #F1F2F6;
+}
+
+.identity {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.avatar {
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	background-color: #cacaca;
+}
+
+.details {
+	margin-left: 15px;
+}
+
+.details .name {
+	margin: 0;
+	margin-bottom: -5px;
+}
+
+.details .username {
+	font-size: .8em;
+	color: #9a9a9a;
+}
+
+.add-post {
+	margin-top: 25px;
+}
+
+.add-post input {
+	background-color: #EEF2F5;
+	border-radius: 10px;
+	padding: 15px 20px;
+	width: calc(100% - 40px);
+	border: none;
+	font-size: .9em;
+}
+
+.menu-container {
+	padding: 35px 40px;
+}
+
+.menu {
+	padding: 10px 0;
+	display: flex;
+	flex-direction: row;
+}
+
+.menu i {
+	font-size: 1.5em;
+	width: 1.8em;
+}
+
+.menu .counter {
+	position: relative;
+	margin-left: auto;
+}
